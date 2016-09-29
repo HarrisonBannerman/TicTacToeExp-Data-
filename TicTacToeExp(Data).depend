@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1456547047 source:c:\users\harrison\desktop\projects\c++\tictactoeexp(data)\main.cpp
+	<string>
+	"Player.h"
+	"Gameboard.h"
+
+1455074723 c:\users\harrison\desktop\projects\c++\tictactoeexp(data)\player.h
+	<iostream>
+	<string>
+
+1455226646 source:c:\users\harrison\desktop\projects\c++\tictactoeexp(data)\player.cpp
+	"Player.h"
+
+1455626819 source:c:\users\harrison\desktop\projects\c++\tictactoeexp(data)\gameboard.cpp
+	"Gameboard.h"
+
+1455630419 c:\users\harrison\desktop\projects\c++\tictactoeexp(data)\gameboard.h
+	<iostream>
+	<string>
+
+1456646128 source:c:\users\harrison bannerman\google drive\projects\c++\tictactoeexp(data)\gameboard.cpp
+	"Gameboard.h"
+
+1455630419 c:\users\harrison bannerman\google drive\projects\c++\tictactoeexp(data)\gameboard.h
+	<iostream>
+	<string>
+
+1456547047 source:c:\users\harrison bannerman\google drive\projects\c++\tictactoeexp(data)\main.cpp
+	<string>
+	"Player.h"
+	"Gameboard.h"
+
+1455074723 c:\users\harrison bannerman\google drive\projects\c++\tictactoeexp(data)\player.h
+	<iostream>
+	<string>
+
+1455226646 source:c:\users\harrison bannerman\google drive\projects\c++\tictactoeexp(data)\player.cpp
+	"Player.h"
+
